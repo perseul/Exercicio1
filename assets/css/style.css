@@ -1,0 +1,35 @@
+.main {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main img {
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.main h2 {
+    font-size: medium;
+    font-style: italic;
+    color: blueviolet;
+}
+
+.main h1 {
+    font-size:x-small;
+    font-weight: bold;
+}
+
+.main p {
+    font-size:xx-small;
+    font-style: italic;
+}
+
+.page2 {
+    display: none;
+}
+
+.page3 {
+    display: none;
+}
+
+
